@@ -43,7 +43,6 @@
         <module>hibernate</module>
         <!-- needs to be migrated from compass to hibernate-search
          <module>ibatis</module> -->
-        <module>jpa</module>
     </modules>
 
     <dependencies>
