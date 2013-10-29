@@ -6,6 +6,7 @@
 </head>
 <body id="login">
 
+<h1>winning!</h1>
 <form method="post" id="loginForm" action="<c:url value='/j_security_check'/>"
     onsubmit="saveUsername(this);return validateForm(this)" class="form-signin" autocomplete="off">
     <h2 class="form-signin-heading">
